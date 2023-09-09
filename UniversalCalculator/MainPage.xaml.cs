@@ -5,6 +5,7 @@ using Windows.UI.ViewManagement;
 using Windows.UI.Xaml;
 using Windows.UI.Xaml.Controls;
 
+// to do add more code for the calculator 
 namespace Calculator
 {
 	public sealed partial class MainPage : Page
