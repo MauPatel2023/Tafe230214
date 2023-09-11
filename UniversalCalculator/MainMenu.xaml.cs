@@ -26,5 +26,47 @@ namespace Calculator
 		{
 			this.InitializeComponent();
 		}
+
+		private void Button_Click(object sender, RoutedEventArgs e)
+		{
+
+		}
+
+		private void MortgageCalculatorButton_Click(object sender, RoutedEventArgs e)
+		{
+
+		}
+
+		private void TripCalculatorButton_Click(object sender, RoutedEventArgs e)
+		{
+			//code will be added later
+		}
+
+		private void Button_Click_1(object sender, RoutedEventArgs e)
+		{
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		//This code will be developed later
+		//private void TripCalculatorButton_Click(object sender, RoutedEventArgs e)
+		//{
+
+		//      }
 	}
 }
